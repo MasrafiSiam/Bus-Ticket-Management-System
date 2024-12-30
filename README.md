@@ -1,6 +1,6 @@
 BUS TICKET MANAGEMENT SYSTEM
 
-description: 
+Description: 
 
 The Bus Ticket Booking System provides a simple yet effective solution for bus seat management. It  
 implements core functionalities such as user login, sign-up, seat booking, cancellation, and display of  
