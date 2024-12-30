@@ -1,5 +1,12 @@
 BUS TICKET MANAGEMENT SYSTEM
 
+description: 
+
+The Bus Ticket Booking System provides a simple yet effective solution for bus seat management. It  
+implements core functionalities such as user login, sign-up, seat booking, cancellation, and display of  
+seat statuses. The system offers real-time seat management, preventing double bookings, and allows  
+users to interact with the bus service in an intuitive way.
+
 
 Technologies and Tools Used:
 Programming Language: C  
@@ -42,9 +49,5 @@ booked, and `0` means available.  - Functions:  - login(): Checks user credentia
 cancelBooking(): Cancels a booking by setting the array index back to `0`.  
 - displayBookingInfo(): Displays the status of all seats.  - displayAvailableSeats(): Displays only the seats that are available.
 
-Conclusion:
 
-The Bus Ticket Booking System provides a simple yet effective solution for bus seat management. It  
-implements core functionalities such as user login, sign-up, seat booking, cancellation, and display of  
-seat statuses. The system offers real-time seat management, preventing double bookings, and allows  
-users to interact with the bus service in an intuitive way. # Bus-Ticket-Management-System
+ # Bus-Ticket-Management-System
