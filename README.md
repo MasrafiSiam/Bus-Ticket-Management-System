@@ -51,4 +51,4 @@ cancelBooking(): Cancels a booking by setting the array index back to `0`.
 - displayBookingInfo(): Displays the status of all seats.  - displayAvailableSeats(): Displays only the seats that are available.
 
 
- # Bus-Ticket-Management-System
+
